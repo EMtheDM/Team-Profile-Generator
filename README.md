@@ -13,7 +13,7 @@
   ## Usage
   Use inquirer from your terminal to answer the provided questions about your team.
   
-  View Video here: [Walkthrough Video](https://watch.screencastify.com/v/6EOam4y1zL8Knwlnhccm)
+  View Video here: [Walkthrough Video](https://watch.screencastify.com/v/hudOqrqp4d27oOkCaraC)
   
   ![Screenshot](/assets/screenshot.png)
   ## License
