@@ -9,7 +9,7 @@
   * [License](#license)
   * [Questions](#questions)
   ## Installation
-  Navigate to https://gihub.com/EMtheDM/Team-Profile-Generator and clone the repo into your text editor. Make sure to download and install Node.js. Install file system and inquirer from npm.
+  Navigate to https://github.com/EMtheDM/Team-Profile-Generator and clone the repo into your text editor. Make sure to download and install Node.js. Install file system and inquirer from npm.
   ## Usage
   Use inquirer from your terminal to answer the provided questions about your team.
   []
